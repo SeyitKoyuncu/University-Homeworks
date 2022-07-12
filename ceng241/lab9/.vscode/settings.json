@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "system_error": "cpp",
+        "xlocale": "cpp",
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp",
+        "memory": "cpp",
+        "type_traits": "cpp",
+        "xlocmes": "cpp",
+        "xlocmon": "cpp",
+        "xlocnum": "cpp",
+        "xloctime": "cpp"
+    }
+}

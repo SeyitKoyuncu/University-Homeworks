@@ -1,0 +1,14 @@
+CENG111
+Luke 101
+Leia 102
+END
+CENG218
+Aragorn 201
+Arwen 202
+END
+CENG555
+seyit 100
+END
+CENG666
+seyitk 200
+END
