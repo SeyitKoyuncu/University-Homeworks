@@ -1,0 +1,13 @@
+C:\Users\AMD\source\repos\201911036_CSharpExercise2\201911036_CSharpExercise2\bin\Debug\netcoreapp3.1\201911036_CSharpExercise2.exe
+C:\Users\AMD\source\repos\201911036_CSharpExercise2\201911036_CSharpExercise2\bin\Debug\netcoreapp3.1\201911036_CSharpExercise2.deps.json
+C:\Users\AMD\source\repos\201911036_CSharpExercise2\201911036_CSharpExercise2\bin\Debug\netcoreapp3.1\201911036_CSharpExercise2.runtimeconfig.json
+C:\Users\AMD\source\repos\201911036_CSharpExercise2\201911036_CSharpExercise2\bin\Debug\netcoreapp3.1\201911036_CSharpExercise2.runtimeconfig.dev.json
+C:\Users\AMD\source\repos\201911036_CSharpExercise2\201911036_CSharpExercise2\bin\Debug\netcoreapp3.1\201911036_CSharpExercise2.dll
+C:\Users\AMD\source\repos\201911036_CSharpExercise2\201911036_CSharpExercise2\bin\Debug\netcoreapp3.1\201911036_CSharpExercise2.pdb
+C:\Users\AMD\source\repos\201911036_CSharpExercise2\201911036_CSharpExercise2\obj\Debug\netcoreapp3.1\201911036_CSharpExercise2.csprojAssemblyReference.cache
+C:\Users\AMD\source\repos\201911036_CSharpExercise2\201911036_CSharpExercise2\obj\Debug\netcoreapp3.1\201911036_CSharpExercise2.AssemblyInfoInputs.cache
+C:\Users\AMD\source\repos\201911036_CSharpExercise2\201911036_CSharpExercise2\obj\Debug\netcoreapp3.1\201911036_CSharpExercise2.AssemblyInfo.cs
+C:\Users\AMD\source\repos\201911036_CSharpExercise2\201911036_CSharpExercise2\obj\Debug\netcoreapp3.1\201911036_CSharpExercise2.csproj.CoreCompileInputs.cache
+C:\Users\AMD\source\repos\201911036_CSharpExercise2\201911036_CSharpExercise2\obj\Debug\netcoreapp3.1\201911036_CSharpExercise2.dll
+C:\Users\AMD\source\repos\201911036_CSharpExercise2\201911036_CSharpExercise2\obj\Debug\netcoreapp3.1\201911036_CSharpExercise2.pdb
+C:\Users\AMD\source\repos\201911036_CSharpExercise2\201911036_CSharpExercise2\obj\Debug\netcoreapp3.1\201911036_CSharpExercise2.genruntimeconfig.cache

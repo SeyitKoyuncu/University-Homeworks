@@ -1,0 +1,36 @@
+.menu_bar{
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    border-bottom: 3px solid transparent;
+    background-color: red;
+    opacity: 0.8;
+}
+
+.menu_bar h4{
+    background-color: red;
+}
+
+.menu_bar a{
+    border:1px solid red;
+    text-decoration: none;
+    color:peachpuff;
+   }
+
+.menu_bar a:hover{
+    border-bottom: 3px solid red;
+    text-decoration: none;
+}
+
+.menu_bar a.active {
+    border-bottom: 3px solid red;
+    text-decoration: none;
+}
+
+.menu_bar th{
+    padding-left: 210px;
+}
+

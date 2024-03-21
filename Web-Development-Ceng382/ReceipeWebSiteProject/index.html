@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="tr">
+    <head>
+       <title> HomePage </title>
+
+       <style>
+        label {
+          color: maroon;
+          margin-left: 3px;
+          font-size: large;
+        }
+
+        #register_button {
+        background-color: #f44336;
+        color: white;
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        }
+
+        #register_form{
+            margin: auto;
+            margin-top: 200px;
+            width: 50%;
+            padding: 10px;
+            background-color:navajowhite;
+            opacity: 0.85;
+        }
+        </style>
+
+        <link rel="stylesheet" href="MenuCss.css">
+        <link rel="stylesheet" href="BackGroundImageCss.css">
+
+    </head>
+
+    <body>
+        <div class = "menu_bar" >
+            <table>
+                <tr>
+                    <th> <h4> <a href = "index.html"> Login Page </a> </h4> </th>
+                    <th> <h4> <a href = "ReceipeList.html"> Receipe List </a> </h4> </th>
+                    <th> <h4> <a href = "IskembeCorbasi.html"> Iskembe Soup </a> </h4> </th>
+                    <th> <h4> <a href = "TavukluKebap.html"> Chicken Vegetable Kebab </a> </h4> </th>
+                    <th> <h4> <a href = "Humus.html"> Humus </a> </h4> </th>
+                </tr>
+            </table>
+        </div>
+
+
+        <form div id = "register_form">
+            <h1 id = "registration_title" style="color:red;"> Registration Form </h1>
+            <label for = "fname"> First Name: </label> <br>
+            <input type = "text" id = "fname" name = "fname"> <br>
+            <label for = "lname"> Last Name: </label> <br>
+            <input type = "text" id = "lname" name = "lname"> <br>
+            <label for = "email"> E-Mail: </label> <br>
+            <input type = "email" id = "email" name = "email"> <br>
+
+            <div id = "register-_form_gender">
+                <label> Gender: </label> <br>
+                <input type = "checkbox" id = "mgender" name = "mgender">
+                <label for = "mgender"> Male </label>
+                <input type = "checkbox" id = "fgender" name = "fgender">
+                <label for = "fgender"> Female </label> <br>
+            </div>
+            <a href = "ReceipeList.html" target="_blank" style="margin-left: 3px;" id ="register_button"> Register </a>
+        </form>
+    </body>
+</html>

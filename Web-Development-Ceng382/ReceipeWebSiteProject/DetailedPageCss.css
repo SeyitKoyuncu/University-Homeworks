@@ -1,0 +1,25 @@
+h1{
+    color:red;
+    font-size:45px;
+    margin-left: 1%;
+}
+
+h5{
+    font-size:30px;
+    margin-left: 1%;
+}
+
+iframe{
+    margin-left: 1%;
+}
+
+.background_settings{
+    margin: auto;
+    margin-top: 200px;
+    width: 33%;
+    padding: 5px;
+    background-color:antiquewhite;
+    opacity: 0.95;
+}
+
+
